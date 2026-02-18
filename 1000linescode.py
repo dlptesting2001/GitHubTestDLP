@@ -2,6 +2,7 @@
 import random
 import speech_recognition as sr
 Shankar-Visual studio testing commit Audit
+Ondrej Zoricak - testing with
 vocabulary = {
     'apple': 'a fruit',
     'dog': 'an animal that barks',
