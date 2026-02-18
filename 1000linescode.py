@@ -1,7 +1,7 @@
 
 import random
 import speech_recognition as sr
-
+Shankar-Visual studio testing commit Audit
 vocabulary = {
     'apple': 'a fruit',
     'dog': 'an animal that barks',
@@ -116,69 +116,7 @@ vocabulary = {
 }
 
 grammar_exercise = [
-    {
-        'question': 'He ___ to the store every day.',
-        'answer': 'goes'
-    },
-    {
-        'question': 'They ___ in the park yesterday.',
-        'answer': 'played'
-    },
-    {
-        'question': 'She ___ a song beautifully.',
-        'answer': 'sings'
-    },
-    {
-        'question': 'I ___ my homework yesterday.',
-        'answer': 'did'
-    },
-    {
-        'question': 'We ___ lunch at noon.',
-        'answer': 'have'
-    },
-    {
-        'question': 'It ___ raining outside.',
-        'answer': 'is'
-    },
-    {
-        'question': 'They ___ going to the party.',
-        'answer': 'are'
-    },
-    {
-        'question': 'He ___ reading a book.',
-        'answer': 'is'
-    },
-    {
-        'question': 'She ___ her friend tomorrow.',
-        'answer': 'will see'
-    },
-    {
-        'question': 'We ___ to the beach last summer.',
-        'answer': 'went'
-    },
-    {
-        'question': 'The birds ___ in the sky.',
-        'answer': 'fly'
-    },
-    {
-        'question': 'The sun ___ in the east.',
-        'answer': 'rises'
-    },
-    {
-        'question': 'I ___ English for two years.',
-        'answer': 'have been studying'
-    },
-    {
-        'question': 'He ___ his bike last week.',
-        'answer': 'fixed'
-    },
-    {
-        'question': 'She ___ breakfast at 8 AM.',
-        'answer': 'eats'
-    },
-    {
-        'question': 'They ___ a movie tonight.',
-        'answer': 'will watch'
+  
     },
     {
         'question': 'The baby ___ asleep.',
